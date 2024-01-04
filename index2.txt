@@ -1,1 +1,3 @@
 this is the change after restore
+
+This is a modified file
